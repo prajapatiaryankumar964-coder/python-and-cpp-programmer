@@ -1,0 +1,5 @@
+user_input = input("Enter a string: ")
+capitalized_string = user_input.upper()
+length = len(capitalized_string)
+print(f"Capitalized: {capitalized_string}")
+print(f"Length: {length}")
